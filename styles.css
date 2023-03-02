@@ -1,0 +1,25 @@
+body {
+    background-color: green;
+    text-align: left;
+  }
+
+  h1 {
+    color: black;
+    text-align: center;
+  }
+
+  h2 {
+    color: white;
+    text-align: center;
+  }
+
+  h3 {
+    color: red;
+    text-align: center;
+  }
+
+  p {
+    font-family: sans-serif;
+    font-size: 16px;
+    text-align: center;
+  }
